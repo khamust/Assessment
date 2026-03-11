@@ -3,7 +3,7 @@ This project is a simple Node.js application connected to a Postgres database. I
 
 ## Running the App Locally
 1. Clone the repository
-   git clone https://github.com/your-username/assessment.git
+   git clone https://github.com/khamust/assessment.git
    cd assessment
 
 2. Create a `.env` file** in the project root with your database settings:
